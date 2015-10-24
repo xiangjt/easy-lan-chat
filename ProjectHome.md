@@ -1,0 +1,1 @@
+The software can chat in LAN,a very small project which is developed by MFC in vs2008.
